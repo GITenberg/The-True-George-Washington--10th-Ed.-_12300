@@ -1,0 +1,28 @@
+_repo: The-True-George-Washington--10th-Ed.-_12300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ford, Paul Leicester
+    birthdate: 1865
+    deathdate: 1902
+    gutenberg_agent_id: '1851'
+    url: http://www.gutenberg.org/2009/agents/1851
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Leicester_Ford
+description: This biography notes that there is a tendency in history to uphold leaders
+  to superhuman status and details the "true" life of George Washington.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcc 'E300'
+- !lcsh 'Washington, George, 1732-1799'
+- GITenberg
+title: The True George Washington [10th Ed.]
+url: http://www.gutenberg.org/ebooks/12300
