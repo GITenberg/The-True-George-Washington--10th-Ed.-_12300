@@ -1,5 +1,8 @@
 _repo: The-True-George-Washington--10th-Ed.-_12300
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ford, Paul Leicester
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Paul_Leicester_Ford
 description: This biography notes that there is a tendency in history to uphold leaders
   to superhuman status and details the "true" life of George Washington.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12300#The-True-George-Washington--10th-Ed.-
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
